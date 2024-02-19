@@ -4,15 +4,15 @@ Whats it about. Basically its https://pixe.la/ but in python. Its for track time
 
 # Instructions
 
-USERNAME = "type your username here"  # chance to someone have same name, try type unique username
-TOKEN = "type your token here"  # write a bunch of random letters (example - roweihdsfpfpod), min. 8-128 lettters
-GRAPH_ID = "type name of the graph"
+USERNAME = "type your username here"  # chance to someone have same name, try type unique username<br>
+TOKEN = "type your token here"  # write a bunch of random letters (example - roweihdsfpfpod), min. 8-128 lettters<br>
+GRAPH_ID = "type name of the graph"<br>
 
 # Functions
 
-add - you have to type here how long did you spent programming and it will automatically be added to the graph
-update - if you type wrong time spent, just run this command and it will overwrite it
-delete - it will delete that day in the graph if you had any record
+add - you have to type here how long did you spent programming and it will automatically be added to the graph<br>
+update - if you type wrong time spent, just run this command and it will overwrite it<br>
+delete - it will delete that day in the graph if you had any record<br>
 
 # Important
 
