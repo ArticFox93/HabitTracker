@@ -3,7 +3,7 @@ from datetime import datetime
 
 USERNAME = "type your username here"  # chance to someone have same name, try type unique username
 TOKEN = "type your token here"  # write a bunch of random letters (example - roweihdsfpfpod), min. 8-128 lettters
-GRAPH_ID = "type your name of graph"
+GRAPH_ID = "type name of the graph"
 
 pixela_endpoint = "https://pixe.la/v1/users"
 
