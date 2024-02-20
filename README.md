@@ -2,6 +2,9 @@
 
 Whats it about. Basically its https://pixe.la/ but in python. Its for track time activities. For example: you'll everyday type "how long" did you programming and it will be recorded in graph with statistic, average, etc.. (graph is so similar to githubs graph)
 
+Preview:<br>
+<img width=600 alt="pixela" src="https://pixe.la/static/img/catch.gif">
+
 # Instructions
 
 USERNAME = "type your username here"  # chance to someone have same name, try type unique username<br>
